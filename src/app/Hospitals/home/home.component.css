@@ -1,0 +1,34 @@
+.block-nav{
+    margin-top: 50px;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.block-marquee{
+    margin-top: 10px;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    background-color: azure;
+}
+.carousel-indicators {
+    display: none;
+  }
+
+ .divstyling{
+width: 100%;
+background-color: yellow;
+height: 30px;
+border: 1px solid cyan;
+margin-top: 0px;
+ }
+ .marquee{
+     align-items: center;
+ }
+ .marquee:hover {
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+  }
