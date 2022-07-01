@@ -28,5 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Hospital-Website
 
 # To visit into the website you can follow this link:
-https://rajkumarchoure.github.io/Hospital-Website/
-# Dr.ChandrashekharVerma
+https://rajkumarchoure.github.io/Dr.ChandrashekharVerma/
+
